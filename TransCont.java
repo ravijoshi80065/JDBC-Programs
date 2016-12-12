@@ -1,5 +1,8 @@
 package module1;
-
+/*
+This program is an example of Transaction management.Program takes input and inserts it into a table.It then gives user an option to
+commit the data into the table or rollback. 
+*/
 import java.sql.*;
 import java.sql.DriverManager;
 import java.util.Scanner;
